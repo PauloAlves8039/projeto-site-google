@@ -7,6 +7,9 @@ Repositório com projeto web para simular a página do Google!, o código fonte 
 - [HTML5](https://www.w3schools.com/html/)
 - [CSS3](https://www.w3schools.com/css/)
 
+## :camera: Screenshot
+
+<p align="center"> <img src="https://raw.githubusercontent.com/PauloAlves8039/projeto-site-google/d29244fbbfe3e12a6ecff0e559b3a497fbef8cac/assets/img/screenshot.png" /> </p>
 
 ## :floppy_disk: Clonar Repositório
 
